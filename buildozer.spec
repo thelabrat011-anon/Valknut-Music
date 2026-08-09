@@ -9,7 +9,7 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 icon.filename = %(source.dir)s/icon.png
 
-requirements = python3==3.11.9,kivy,pyjnius,mutagen,android,plyer
+requirements = python3==3.11.9,hostpython3==3.11.9,kivy,pyjnius,mutagen,android,plyer
 
 orientation = portrait
 fullscreen = 0
